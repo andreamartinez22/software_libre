@@ -41,3 +41,14 @@ es un **contrato** entre el **licenciante y el licenciatario** del programa info
   - GNU Lesser General Public License v.2.1.
   - Mozilla Public License
   - Open Source License.
+  
+##### Según su destinatario
+
+-*Licencia de usuario final*
+
+Es una licencia por la cual el uso de un producto solo está permitido para un **único usuario** (el comprador).
+En este tipo de contrato, el dueño de los derechos de un producto insta al usuario final de este a que reconozca tener conocimiento de las restricciones de uso, de los derechos del autor, de las patentes, etc., y que acepte de conformidad.
+
+-*Licencia de distribuidores*
+
+En este tipo de contrato, se le asigna derechos restringidos a un **mayorista** para que venda el producto software a terceros dando una remesa o comisión al fabricante. La misma puede ser por primera venta o licencia de renovación de contrato. No se trata de una licencia de uso en términos jurídicos, sino más bien en un acuerdo comercial en el que no tiene por qué ser cedido el derecho de distribución necesariamente.

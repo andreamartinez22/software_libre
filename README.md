@@ -53,10 +53,16 @@ En este tipo de contrato, el dueño de los derechos de un producto insta al usua
 
 En este tipo de contrato, se le asigna derechos restringidos a un **mayorista** para que venda el producto software a terceros dando una remesa o comisión al fabricante. La misma puede ser por primera venta o licencia de renovación de contrato. No se trata de una licencia de uso en términos jurídicos, sino más bien en un acuerdo comercial en el que no tiene por qué ser cedido el derecho de distribución necesariamente.
 
-## Licencias de software libre
-### Definición 
- Es un documento que otorga al software derechos extensivos para modificar y redistribuir ese software. Estas acciones normalmente se prohíben por las leyes de derechos de autor, pero el que posee los derechos, normalmente es el creador del software, puede eliminar esas restricciones acompañando al software con una licencia de software que otorgue al receptor de estos derechos.
-
+## Análisis de licencias de software libre
+ ##### GPL v3.0
+La Licencia Pública General de GNU, llamada comúnmente GPL de GNU, se usa para la mayoría de los programas de GNU y para más de la mitad de los paquetes de software libre. 
+ Ejemplos sofware que la utilizen:
+ - Gameshell
+ 
+ ##### LGPL v3.0
+La Licencia Pública General Reducida de GNU (LGPL de GNU) se usa para algunas —pero no para todas— las bibliotecas de GNU.
+Ejemplos sofware que la utilizen:
+- Ethereum-go 
 
 
 

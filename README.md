@@ -16,7 +16,7 @@ es un **contrato** entre el **licenciante y el licenciatario** del programa info
 ##### De más a menos permisivas: 
 - *Licencia de software de código cerrado*
 
-  En ellas los propietarios establecen los derechos de uso, distribución, redistribución,ventas, copia, modificación, cesión y en general cualquier otra consideración que se estime necesaria.Algunos ejemplos de este tipo de licencias son las llamadas acuerdo de licencia de usuario final **(ALUF)**, también llamado en algunos países contrato de licencia de usuario final **(CLUF)**.
+  En ellas los propietarios establecen los derechos de uso, distribución, redistribución,ventas, copia, modificación, cesión y en general cualquier otra consideración que se estime necesaria. Algunos ejemplos de este tipo de licencias son las llamadas acuerdo de licencia de usuario final **(ALUF)**, también llamado en algunos países contrato de licencia de usuario final **(CLUF)**.
 
 - *Licencia de software de código abierto permisivas*
 
@@ -29,7 +29,7 @@ es un **contrato** entre el **licenciante y el licenciatario** del programa info
 
 - *Licencias de software de código abierto robustas fuertes*
 
-   Ellas contienen una cláusula que obliga a que las obras derivadas o modificaciones que se realicen al software original se deban licenciar bajo los     mismos términos y condiciones de la licencia original.Algunos ejemplos de este tipo de licencias son:
+   Ellas contienen una cláusula que obliga a que las obras derivadas o modificaciones que se realicen al software original se deban licenciar bajo los     mismos términos y condiciones de la licencia original. Algunos ejemplos de este tipo de licencias son:
    - Common Public License v.1.0.
    - GNU General Public License v.2.0.
    - GNU General Public License v.3.0.
@@ -42,7 +42,7 @@ es un **contrato** entre el **licenciante y el licenciatario** del programa info
   - Mozilla Public License
   - Open Source License.
   
-##### Según su destinatario
+##### Según su destinatario:
 
 - *Licencia de usuario final*
 
@@ -54,6 +54,9 @@ En este tipo de contrato, el dueño de los derechos de un producto insta al usua
 En este tipo de contrato, se le asigna derechos restringidos a un **mayorista** para que venda el producto software a terceros dando una remesa o comisión al fabricante. La misma puede ser por primera venta o licencia de renovación de contrato. No se trata de una licencia de uso en términos jurídicos, sino más bien en un acuerdo comercial en el que no tiene por qué ser cedido el derecho de distribución necesariamente.
 
 ## Licencias de software libre
+### Definición 
+ Es un documento que otorga al software derechos extensivos para modificar y redistribuir ese software. Estas acciones normalmente se prohíben por las leyes de derechos de autor, pero el que posee los derechos, normalmente es el creador del software, puede eliminar esas restricciones acompañando al software con una licencia de software que otorgue al receptor de estos derechos.
+
 
 
 

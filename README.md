@@ -57,13 +57,18 @@ En este tipo de contrato, se le asigna derechos restringidos a un **mayorista** 
  ##### GPL v3.0
 La Licencia Pública General de GNU, llamada comúnmente GPL de GNU, se usa para la mayoría de los programas de GNU y para más de la mitad de los paquetes de software libre. 
  Ejemplos sofware que la utilizen:
- - Gameshell
+ - [Gameshell](https://github.com/phyver/GameShell)
  
  ##### LGPL v3.0
 La Licencia Pública General Reducida de GNU (LGPL de GNU) se usa para algunas —pero no para todas— las bibliotecas de GNU.
 Ejemplos sofware que la utilizen:
-- mr-Kelly [https://github.com/mr-kelly/KEngine]
+- [mr-Kelly](https://github.com/mr-kelly/KEngine)
 
+## Análisis de documentación libre 
+##### GNU v 1.3
+La Licencia de Documentación Libre de GNU es una forma de copyleft pensada para manuales, libros de texto u otros documentos, para garantizar que todo el mundo tenga la libertad de copiar y redistribuir la obra, con o sin modificaciones, de modo comercial o no comercial. La última es la versión 1.3. 
+ Ejemplos sofware que la utilizen:
+ -
 
 
 ### Referencias

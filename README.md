@@ -64,11 +64,24 @@ La Licencia Pública General Reducida de GNU (LGPL de GNU) se usa para algunas �
 Ejemplos sofware que la utilizen:
 - [mr-Kelly](https://github.com/mr-kelly/KEngine)
 
-## Análisis de documentación libre 
-##### GNU v 1.3
+ ##### GNU v 1.3
 La Licencia de Documentación Libre de GNU es una forma de copyleft pensada para manuales, libros de texto u otros documentos, para garantizar que todo el mundo tenga la libertad de copiar y redistribuir la obra, con o sin modificaciones, de modo comercial o no comercial. La última es la versión 1.3. 
  Ejemplos sofware que la utilizen:
- -
+ - [netdata](https://github.com/netdata/netdata)
+ 
 
+  ##### MIT
+ La licencia MIT es una de tantas licencias de software. El texto de la licencia no tiene copyright, lo que permite su modificación. No obstante esto, puede no ser recomendable e incluso muchas veces dentro del movimiento del software de código abierto desaconsejan el uso de este texto para una licencia, a no ser que se indique que es una modificación, y no la versión original. La licencia MIT es muy parecida a la licencia BSD en cuanto a efectos. 
+ - [icepat](https://github.com/icepat/ICETutorial)
+ 
+ ##### EPL
+ La Licencia Pública Eclipse (EPL) es una licencia utilizada por la Fundación Eclipse para su software. Sustituye a la Licencia Pública Común (CPL) y elimina ciertas condiciones relativas a los litigios sobre patentes. La Licencia Pública de Eclipse está diseñado para ser una licencia de software favorable a los negocios y cuenta con disposiciones más débiles que las licencias copyleft contemporáneas. El receptor de programas licenciados EPL pueden utilizar, modificar, copiar y distribuir el trabajo y las versiones modificadas, en algunos casos están obligados a liberar sus propios cambios. 
+ - [eclipse](https://github.com/eclipse/che)
 
-### Referencias
+## Ventajas del software libre
+ - Es gratuita.
+ - Uso libre.Cualquier persona o empresa puede utilizarlo.
+ - Libertad de manejo y trabajo cooperativo con usuarios.
+ - Facilidad de transformacion. Puede transformar el sofware según sus necesidades.
+ - La libertad de distribuir las versiones modificadas de sotware.
+ - Basicamente es una herramienta digital cuya naturaleza respeta la libertad de utilización de los usuarios. Esto significa que los usuarios pueden ejecutar, copiar, distribuir, estudiar, modificar y mejorar el software como mejor les parezca, indistintamente de la autoría del mismo

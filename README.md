@@ -84,4 +84,4 @@ La Licencia de Documentación Libre de GNU es una forma de copyleft pensada para
  - Libertad de manejo y trabajo cooperativo con usuarios.
  - Facilidad de transformacion. Puede transformar el sofware según sus necesidades.
  - La libertad de distribuir las versiones modificadas de sotware.
- - Basicamente es una herramienta digital cuya naturaleza respeta la libertad de utilización de los usuarios. Esto significa que los usuarios pueden ejecutar, copiar, distribuir, estudiar, modificar y mejorar el software como mejor les parezca, indistintamente de la autoría del mismo
+ - Basicamente es una herramienta digital cuya naturaleza respeta la libertad de utilización de los usuarios. Esto significa que los usuarios pueden ejecutar, copiar, distribuir, estudiar, modificar y mejorar el software como mejor les parezca, indistintamente de la autoría del mismo.
